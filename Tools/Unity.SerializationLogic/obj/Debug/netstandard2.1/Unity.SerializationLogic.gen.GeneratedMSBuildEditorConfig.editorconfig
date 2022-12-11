@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Unity.SerializationLogic.gen
+build_property.ProjectDir = /workspaces/UnityCsReference/Tools/Unity.SerializationLogic/
